@@ -4,4 +4,4 @@ I am a Software Engineer with a passion for Full-Stack Development who loves sol
 
 I am looking forward to working in an environment where I can not only achieve my highest potential and contribute to solving problems, but also help others in solving problems, while elevating my team members to achieve their fullest potential.
 
-[![Linkedin Badge](https://img.shields.io/badge/-midhruvjaink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caseyoneil10/)](https://www.linkedin.com/in/caseyoneil10/)
+[![Linkedin Badge](https://img.shields.io/badge/-Casey O'Neil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caseyoneil10/)](https://www.linkedin.com/in/caseyoneil10/)
